@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@contentful/rich-text-from-markdown": "^14.1.2",
+    "contentful-migration": "^4.0.9"
+  }
+}
